@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_sIjY4bN1EfG8Ud6d41cF9Q" label="Bank_DWH" language="java" technicalLabel="BANK_DWH" author="_sIjY4rN1EfG8Ud6d41cF9Q" productVersion="Qlik Talend Cloud Enterprise Edition-8.0.1.20260820_0911-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gilakasreenivasa/Talend_Projects.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_sJ3AcLN1EfG8Ud6d41cF9Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_sIjY4rN1EfG8Ud6d41cF9Q" login="knm@trial.xww96gnkuabz6ja.us.qlikcloud.com" firstName="gilaka" lastName="sreenivasa" type="DQ"/>
+</xmi:XMI>

@@ -1,0 +1,20 @@
+[ {
+  "baseItem" : {
+    "id" : "_pTm64LZ8EfGVcK5HS-fU4A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Z5tjQLZ9EfGVcK5HS-fU4A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Z5tjQLZ9EfGVcK5HS-fU4A - CUSTOMER_SOURCE",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Z5tjQLZ9EfGVcK5HS-fU4A - ETL_CONTROL",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
